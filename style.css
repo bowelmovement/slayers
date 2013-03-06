@@ -1,0 +1,92 @@
+img.ss 
+{
+	background: #ffffff;
+	border: 3px solid #B0B0B0;
+	padding: 1px;
+	margin: 2px 2px 10px 10px;
+}
+
+p, div
+{	
+	font-family: trebuchet ms, arial, verdana;	
+	font-size: 11px;
+	line-height: 19px;
+	text-indent: 20px;
+}
+
+p.comment
+{
+	text-indent: 40px;
+	color: #6EADE2;
+	font: italic 20px trebuchet ms, arial, georgia;
+	letter-spacing: 3px;
+	margin: 30px 0 5px 0;
+	padding-left: 40px;
+}
+
+
+td
+{
+	font-family: trebuchet ms, arial, verdana;	
+	font-size: 11px;
+	line-height: 19px;
+}
+
+td.back
+{
+	background:url(img/SiDbg.jpg);
+	repeat: repeat-y;
+}
+
+a 
+{
+	color:#589458;
+	text-decoration: none;
+ 	font-weight: bold;
+ 	font-size: 11px;
+}
+
+a:hover 
+{
+	color: #ffffff;
+	background-color:#DEC2F0;
+}
+
+i 
+{
+	background-color:#FCFAC4;
+}
+
+b
+{
+	background-color:#FCDCE4;
+}
+
+u
+{
+	text-decoration: none;
+	text-indent: 30px;
+	color: #6EADE2;
+	font: italic 20px trebuchet ms, verdana, arial, georgia;
+	letter-spacing: 3px;
+	margin: 0 0 0 0;
+	padding-left: 40px;
+}
+
+body
+{
+	margin: 0px 0px 0px 0px;
+}
+
+div#bar {
+	background-color:#000000;
+	border-bottom:4px solid #BDC9EF;
+	height:22px;
+}
+
+blockquote {
+	text-indent: 20px;
+	padding: 5px 5px 5px 15px;
+	border: 1px dotted #094B83;
+	margin: 0px 30px 30px 60px;
+}
